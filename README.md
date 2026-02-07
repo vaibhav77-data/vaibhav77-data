@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <span style="color:#228B22;"><strong> Hi, I'm PRAVIN GANGURDE </strong></span>
+  <span style="color:#228B22;"><strong> Hi, I'm VAIBHAV THOMBARE </strong></span>
 </h1>
 
 <p align="center">
