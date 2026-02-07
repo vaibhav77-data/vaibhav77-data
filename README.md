@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Vaibhav Thombare</h1>
+
 
 <h3 align="center">
 📊 Data Analyst | 6 Months Industry Experience @ Infoz IT Solutions  
