@@ -14,7 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Vaibhav Thombare</h1>
+<h1 align="center">
+  <span style="color:#228B22;"><strong> Hi, I'm PRAVIN GANGURDE </strong></span>
+</h1>
+
+<p align="center">
+  💼 Infoz It  &nbsp; | &nbsp;🎓 BCA ( COMPUTER APPLICATION ) &nbsp; | &nbsp; 🌍 From Nashik, Maharashtra
+</p>
+<p align="center">
+
+  <!-- Python -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="100" style="margin: 10px;" />
+
+  <!-- SQL -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="100" style="margin: 10px;" />
+
+  <!-- Power BI -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Power BI" width="100" style="margin: 10px;" />
+
+  <!-- Excel -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="100" style="margin: 10px;" />
+
+</p>
+
 <h3 align="center">
 Data Analyst | 6 Months Industry Experience @ Infoz IT Solutions  
 Turning Data into Actionable Business Insights
