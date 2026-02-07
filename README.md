@@ -159,4 +159,4 @@ Here are some ideas to get you started:
 🧩 I enjoy finding patterns in data the same way others enjoy solving puzzles.
 
 
-I enjoy finding patterns in data the same way others enjoy solving puzzles 🧩
+
